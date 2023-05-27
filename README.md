@@ -6,9 +6,7 @@
 - <b>Microsoft Azure</b>
   
   - [Creating Resource Groups and Deploying Virtual Machines in Azure](https://github.com/ChristopherDacres/resource-groups-and-virtual-machines)
-  - [Configuring on-premises Active Directory within Azure VMs](https://github.com/ChristopherDacres/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChristopherDacres/azure-network-protocols)
-
+  
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket: Installation](https://github.com/ChristopherDacres/osticket-prereqs)
